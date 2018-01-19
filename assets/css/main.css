@@ -1574,7 +1574,7 @@
 			font-size: 0.6rem;
 			opacity: 0.75;
 			margin-bottom: 0;
-			text-transform: uppercase;
+			text-transform: full-width;
 		}
 
 		body.is-article-visible #footer {
